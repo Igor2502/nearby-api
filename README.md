@@ -1,0 +1,2 @@
+# Nearby - API
+Api utilizada durante o evento NLW Pocket Mobile da [Rocketseat](https://www.rocketseat.com.br/) para construção do APP [Nearby](https://github.com/Igor2502/nlw-mobile-pocket-react-native).
